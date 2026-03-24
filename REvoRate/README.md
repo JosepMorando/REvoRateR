@@ -146,7 +146,7 @@ BibTeX:
              evolutionary rate under climate change at the {Mediterranean}
              range margin of {European} beech},
   journal = {Evolutionary Applications},
-  year    = {2025}
+  year    = {2026}
 }
 ```
 
